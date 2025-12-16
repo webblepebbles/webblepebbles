@@ -9,5 +9,5 @@ You might know me by one or more of the following names:
 
 those are ALL me, no one is commit ID theift.
 
-[![Modrinth](https://img.shields.io/badge/modrinth.com%2Fuser%2Fwebblepebbles-00AF5C?logo=modrinth&logoColor=white)](https://modrinth.com/user/webblepebbles)
-
+I make Minecraft mod(maybe s)! 
+[![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?logo=modrinth&logoColor=white)](https://modrinth.com/user/webblepebbles)
