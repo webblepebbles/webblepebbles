@@ -22,3 +22,6 @@ I make Minecraft mod(maybe s)!
 **I use**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Ultra-Mega Antigravity](https://img.shields.io/badge/Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Gravity-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white)
+(no i don't use AI)
