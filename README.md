@@ -19,9 +19,13 @@ I make Minecraft mod(maybe s)!
 ![Metal Shading Language](https://img.shields.io/badge/Metal%20Shading%20Language-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Minecraft Command Blocks](https://img.shields.io/badge/Minecraft%20Command%20Blocks-62B47A?style=for-the-badge&logo=minecraft&logoColor=yellow)
 
-**I use**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![Ultra-Mega Antigravity](https://img.shields.io/badge/Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Anti%20Gravity-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white)
-(no i don't use AI code)
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=webblepebbles&show_icons=true&rank_icon=letter&theme=cobalt&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webblepebbles&layout=compact&theme=cobalt&langs_count=8" />
+    </td>
+  </tr>
+</table>
