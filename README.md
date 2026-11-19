@@ -20,4 +20,4 @@ I make Minecraft mod(maybe s)!
 ![Minecraft Command Blocks](https://img.shields.io/badge/Minecraft%20Command%20Blocks-62B47A?style=for-the-badge&logo=minecraft&logoColor=yellow)
 
 
-[![Pebbles_boon's GitHub stats](https://github-stats-extended.vercel.app/api?username=ebbles_boon)](https://github.com/stats-organization/github-stats-extended)
+[![Pebbles_boon's GitHub stats](https://github-stats-extended.vercel.app/api?username=pebbles_boon)](https://github.com/stats-organization/github-stats-extended)
