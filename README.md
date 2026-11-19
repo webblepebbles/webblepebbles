@@ -19,5 +19,4 @@ I make Minecraft mod(maybe s)!
 ![Metal Shading Language](https://img.shields.io/badge/Metal%20Shading%20Language-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Minecraft Command Blocks](https://img.shields.io/badge/Minecraft%20Command%20Blocks-62B47A?style=for-the-badge&logo=minecraft&logoColor=yellow)
 
-
-[![Pebbles_boon's GitHub stats](https://github-stats-extended.vercel.app/api?username=webblepebbles)](https://github.com/stats-organization/github-stats-extended)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=webblepebbles&theme=kanagawa)
